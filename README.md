@@ -2,6 +2,9 @@
 
 Mickey is a simple Windows application written in Java designed to prevent your computer from hibernating and to maintain an active status in social applications. It does this by simulating the user's activity through a background process that causes the cursor to move slightly from time to time.
 
+<p align="center"><img src="assets/MickeyGUI.png" alt="Mickey GUI" width="300"/><br>
+<sub>Mickey application’s GUI featuring start/stop controls and an interval slider for customizing the mouse movement frequency</sub></p>
+
 ## Features
 
 - Prevents computer from going into hibernation.
