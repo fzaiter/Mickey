@@ -1,2 +1,2 @@
 # Mickey
-Simple Windows application designed to prevent computer sleep and maintain active status in social apps.
+Simple Windows application written in Java, designed to prevent computer hibernation and maintain active status in social applications.
